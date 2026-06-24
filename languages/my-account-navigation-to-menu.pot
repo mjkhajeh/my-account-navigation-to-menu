@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WC My Account navigation to menu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-24 21:52+0000\n"
+"POT-Creation-Date: 2026-06-24 22:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -29,7 +29,7 @@ msgid "https://mjkhajeh.ir"
 msgstr ""
 
 #. URI of the plugin
-msgid "https://wordpress.org/plugins/my-account-link-to-menu/"
+msgid "https://wordpress.org/plugins/my-account-navigation-to-menu/"
 msgstr ""
 
 #. Author of the plugin

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WC My Account navigation to menu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-20 13:19+0000\n"
-"PO-Revision-Date: 2026-06-24 21:52+0000\n"
+"PO-Revision-Date: 2026-06-24 22:19+0000\n"
 "Last-Translator: دکتر پلاس\n"
 "Language-Team: فارسی\n"
 "Language: fa_IR\n"
@@ -29,9 +29,9 @@ msgid "https://mjkhajeh.ir"
 msgstr "https://mjkhajeh.ir"
 
 #. URI of the plugin
-#| msgid "https://wordpress.org/plugins/wc-my-account-link-to-menu/"
-msgid "https://wordpress.org/plugins/my-account-link-to-menu/"
-msgstr "https://wordpress.org/plugins/my-account-link-to-menu/"
+#| msgid "https://wordpress.org/plugins/my-account-link-to-menu/"
+msgid "https://wordpress.org/plugins/my-account-navigation-to-menu/"
+msgstr "https://wordpress.org/plugins/my-account-navigation-to-menu/"
 
 #. Author of the plugin
 msgid "MohammadJafar Khajeh"

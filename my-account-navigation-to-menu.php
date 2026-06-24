@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       My Account navigation to menu
- * Plugin URI:        https://wordpress.org/plugins/my-account-link-to-menu/
+ * Plugin URI:        https://wordpress.org/plugins/my-account-navigation-to-menu/
  * Description:       Ability to edit account page items using the WordPress menu.
  * Version:           1.0.0.0
  * Requires at least: 6.0
