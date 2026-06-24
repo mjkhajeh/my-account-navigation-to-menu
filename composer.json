@@ -1,11 +1,11 @@
 {
-    "name": "mjkhajeh/wc-my-account-navigation-to-menu",
+    "name": "mjkhajeh/my-account-navigation-to-menu",
     "description": "Ability to edit account page items using the WordPress menu.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "autoload": {
         "psr-4": {
-            "MJ\\WCMyAccountNavToMenu\\": ""
+            "MJ\\MyAccountNavToMenu\\": ""
         }
     },
     "authors": [

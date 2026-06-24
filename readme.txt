@@ -1,4 +1,4 @@
-=== WC My Account navigation to menu ===
+=== My Account navigation to menu ===
 Contributors: mjkhajeh
 Tags: woocommerce, my account, menu, navigation, endpoints
 Requires at least: 6.0
